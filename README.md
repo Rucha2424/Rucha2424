@@ -20,17 +20,6 @@ I enjoy turning ideas into working applications and understanding the engineerin
 </p>
 
 ---
-### Projects at Dev Duos Code
-
-**[ZenithMock — AI Interview Platform](https://github.com/Dev-Duos-code/ZenithMock--AI-Interview-Platform)**
-
-An AI-powered interview preparation platform featuring mock interviews, instant feedback, resume tools, and personalized learning roadmaps.
-
-`React` `Node.js` `LangGraph` `Groq`
-
-[Explore Dev Duos Code →](https://github.com/Dev-Duos-code)
-
----
 
 ### Featured Projects
 
@@ -50,6 +39,18 @@ A Python-based project focused on network topology identification, link capacity
 A food delivery web application focused on implementing core application workflows and improving the user experience.
 
 [Live Application](https://speedymeals-3.onrender.com/signin)
+
+---
+
+### Projects at Dev Duos Code
+
+**[ZenithMock — AI Interview Platform](https://github.com/Dev-Duos-code/ZenithMock--AI-Interview-Platform)**
+
+An AI-powered interview preparation platform featuring mock interviews, instant feedback, resume tools, and personalized learning roadmaps.
+
+`React` `Node.js` `LangGraph` `Groq`
+
+[Explore Dev Duos Code →](https://github.com/Dev-Duos-code)
 
 ---
 
