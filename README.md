@@ -4,7 +4,7 @@
 
 I'm a CSE student at **Manipal Institute of Technology, MAHE Bengaluru**, interested in building reliable software, solving problems, and exploring the intersection of full-stack development and AI.
 
-I enjoy turning ideas into working applications and understanding the engineering decisions behind them — from designing APIs and managing data to integrating AI into practical workflows.
+I enjoy turning ideas into working applications and understanding the engineering decisions behind them ,from designing APIs and managing data to integrating AI into practical workflows.
 
 - Building full-stack applications and AI-powered solutions
 - Strengthening my foundations in data structures and algorithms
@@ -16,14 +16,14 @@ I enjoy turning ideas into working applications and understanding the engineerin
 ### Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,python,js,react,nodejs,express,spring,mongodb,mysql,git,github&theme=dark" alt="Java, Python, JavaScript, React, Node.js, Express, Spring Boot, MongoDB, MySQL, Git and GitHub" />
+  <img src="https://skillicons.dev/icons?i=java,python,js,react,nodejs,express,spring,mongodb,mysql,git,github&theme=dark" alt="Java, Python, JavaScript, React, Node.js, Express, MongoDB, MySQL, Git and GitHub" />
 </p>
 
 ---
 
 ### Featured Projects
 
-**InterviewIQ AI**  
+**ZenithMock**  
 An AI-assisted interview preparation platform with authentication and interview feedback.
   
 `React` `Node.js` `Express` `MongoDB` `Gemini API`
@@ -37,11 +37,6 @@ A Unihack project focused on processing and enriching product data through a str
 A Python-based project focused on network topology identification, link capacity estimation, and data analysis, developed for the Nokia Fronthaul Network Optimization Hackathon.
 
 `Python` `Pandas` `NumPy` `Matplotlib`
-
-**Campus Management System**  
-A role-based academic management application built with REST APIs and relational database integration.
-
-`Java` `Spring Boot` `MySQL`
 
 **SpeedyMeals**  
 A food delivery web application focused on implementing core application workflows and improving the user experience.
