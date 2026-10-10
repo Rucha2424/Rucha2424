@@ -20,13 +20,21 @@ I enjoy turning ideas into working applications and understanding the engineerin
 </p>
 
 ---
+### Projects at Dev Duos Code
+
+**[ZenithMock — AI Interview Platform](https://github.com/Dev-Duos-code/ZenithMock--AI-Interview-Platform)**
+
+An AI-powered interview preparation platform featuring mock interviews, instant feedback, resume tools, and personalized learning roadmaps.
+
+`React` `Node.js` `LangGraph` `Groq`
+
+[Explore Dev Duos Code →](https://github.com/Dev-Duos-code)
+
+---
 
 ### Featured Projects
 
-**ZenithMock**  
-An AI-assisted interview preparation platform with authentication and interview feedback.
-  
-`React` `Node.js` `Express` `MongoDB` `Gemini API`
+---
 
 **AI-Powered Product Data Enrichment Pipeline**  
 A Unihack project focused on processing and enriching product data through a structured pipeline.
